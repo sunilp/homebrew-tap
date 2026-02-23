@@ -1,8 +1,8 @@
 class JamCli < Formula
   desc "Developer-first AI assistant CLI for the terminal"
   homepage "https://github.com/sunilp/jam-cli"
-  url "https://registry.npmjs.org/@sunilp-org/jam-cli/-/jam-cli-0.1.2.tgz"
-  sha256 "316007a1c1f5e9ab33efb458a340f6cfde6411cd27bbe4559d57c1dce248aa90"
+  url "https://registry.npmjs.org/@sunilp-org/jam-cli/-/jam-cli-0.3.0.tgz"
+  sha256 "8c42d193b73b5c9f5c06513624027196ce565eed44ccf5b7355f43ca457e8df5"
   license "MIT"
 
   depends_on "node@20"
