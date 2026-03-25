@@ -1,8 +1,8 @@
 class JamCli < Formula
   desc "Developer-first AI CLI for cross-language code intelligence"
   homepage "https://jam.sunilprakash.com"
-  url "https://registry.npmjs.org/@sunilp-org/jam-cli/-/jam-cli-0.11.1.tgz"
-  sha256 "6fe433841388e95cb8658e20e345027d55cab2d7d36e782a0e32bbc15f004341"
+  url "https://registry.npmjs.org/@sunilp-org/jam-cli/-/jam-cli-0.11.2.tgz"
+  sha256 "39c4a88512ae35c4b38ecdcd5f4c712237ca40457000ac79a6d1faa9d03fa602"
   license "MIT"
 
   depends_on "node@20"
